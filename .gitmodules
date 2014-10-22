@@ -1,0 +1,21 @@
+[submodule "vim/command-t"]
+	path = vim/command-t
+	url = https://github.com/wincent/command-t
+[submodule "vim/minibufexpl.vim"]
+	path = vim/minibufexpl.vim
+	url = https://github.com/fholgado/minibufexpl.vim
+[submodule "vim/nerdcommenter"]
+	path = vim/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "vim/nerdtree"]
+	path = vim/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "vim/supertab"]
+	path = vim/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "vim/vim-colors-solarized"]
+	path = vim/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "vim/vim-togglemouse"]
+	path = vim/vim-togglemouse
+	url = https://github.com/nvie/vim-togglemouse
